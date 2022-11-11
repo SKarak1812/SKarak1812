@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SKarak1812
-- 👀 I’m interested in each and every kind of language
-- 🌱 I’m currently learning HTML, CSS, JS, PYTHON and C++.
+- 👀 I’m interested in each and every kind of language and also interested in Cloud computing.
+- 🌱 I’m currently learning HTML, AWS, Azure, GCP, PYTHON and C++.
 - 💞️ I’m looking to collaborate on different projects which will help me to learn and grow. Since I too have my own goals.
 - 📫 How to reach me :
       call me or whatsapp me : +91 7070049763
-      linked in: https://www.linkedin.com/in/sandeepan-karak-021aaa208/#
+      linked in: www.linkedin.com/in/sandeepan-karak
       instagram: https://www.instagram.com/sandeepan_karak/
 
 <!---
